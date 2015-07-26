@@ -1,0 +1,11 @@
+CodeBook.rmd
+-----------------------------------------------------------
+The features are described in the associated file: features_info.txt
+
+additional info is found in README.txt
+
+The training and test files were combined into a single dataset with the new, additional flag "Train", indicating whether or not the observation is a member of the training set.
+
+Only variables containing mean and standard deviation data were preserved.
+
+The feature names were simplified by abbreviating "Body" by"B", "man" by "mn", and removing instances of "()".

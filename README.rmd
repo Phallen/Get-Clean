@@ -1,0 +1,16 @@
+README.rmd
+------------------------------------------------------------
+Class:  Getting & Cleaning Data - Coursera
+
+Project: Formation of a Tidy data set
+
+This project uses a database of Samsung smartphone measurements used to explore the determination of the type of activity the user is engaged in.
+ Reference for this database:
+ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+ Note - data files are described in the associated files:  README.txt and features_info.txt
+the data files are found at:
+
+  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+  the file used to create the tidy dataset is named:  run_analysis.R
